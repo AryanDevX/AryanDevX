@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AryanDevX
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning CPP
 - 💞️ I’m looking to collaborate on NOTHING
 - 📫 How to reach me ---> Find yourself
 - 😄 Pronouns: He/Him
